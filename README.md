@@ -1,6 +1,6 @@
 # Apartment Search App
 
-A web app that scrapes apartment listings from Craigslist and Facebook Marketplace, geocodes addresses, and visualises results on an interactive map with price/size/room filters.
+A web app that scrapes apartment listings from Craigslist, geocodes addresses, and visualises results on an interactive map with price/size/room filters.
 
 **Stack:** FastAPI + SQLite (backend) · React + Vite + Leaflet (frontend)
 
